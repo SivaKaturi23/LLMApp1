@@ -1,0 +1,5 @@
+# /.gitignore
+
+.env
+LLM2/
+__pycache__
